@@ -32,6 +32,6 @@ Soy un colombiano de 27 años de edad amante de la tecnología y de la lectura, 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-- 📫 How to reach me Email: fredyalberbaron@hotmail.com, Linkedin:https://www.linkedin.com/in/fredy-alberto-varon-guzman-b81806138?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4BrIX%2BwdQX6qr5qZqS%2FjGg%3D%3D
+
 
 
